@@ -1,10 +1,5 @@
-
-<!-- 
-```markdown:/e/git/qcliao.github.io/_pages/about.md
---- -->
+---
 permalink: /
-# 这里一般可以使用与页面内容紧密相关的标题，例如：
-# 如果是个人简介页面，常见标题有“个人简介”、“关于我”等
 title: "About Me"
 author_profile: true
 redirect_from: 
@@ -12,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer working in the Theory Lab, Huawei. 
+
+I am a research engineer working in the Theory Lab, Huawei.
 
 Prior to this, I obtained Ph.D. degree from the Department of Mathematical Sciences, Tsinghua University in 2024, and Bachelor's degree from the School of Mathematics and Statistics, Wuhan University in 2020.
 
